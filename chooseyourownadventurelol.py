@@ -33,7 +33,7 @@ elif ans == "wait":
         else:
             print('the grammar god clonked you over the head with a leg of ham, what an anticlimatic way to die')
     elif bre == "walk":
-        print("lol u got squisheeed")
+        print("lol u got squisheeed by a pebble. Wait wat")
     else:
         print('the grammar god sent you to get the milk')
 else: 
